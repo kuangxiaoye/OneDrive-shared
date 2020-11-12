@@ -1,4 +1,4 @@
-ÓÃ»§Ãû              ÃÜÂë
+account              password
 drive1@sipan.ml     Jal52782
 drive2@sipan.ml     Juf36770
 drive3@sipan.ml     Bop79898
